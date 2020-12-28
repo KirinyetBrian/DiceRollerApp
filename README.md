@@ -1,2 +1,5 @@
+BY KIRINYET BRIAN in 2020
+my first Android App 
+
 # DiceRollerApp
  WHEN YOU CLICK THE ROLL BUTTON THE DICE IS ROLLED
